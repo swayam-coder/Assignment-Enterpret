@@ -1,0 +1,12 @@
+html, body {
+    margin: 0;
+    scrollbar-width:none;
+}
+
+.MuiSelect-icon {
+    color: 'white'
+}
+
+body::-webkit-scrollbar {
+    display: none;
+}
