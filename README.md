@@ -15,7 +15,7 @@ Deployed Link: https://enterpret-assignment-swayam-nayak.netlify.app/
 #### 3) To access or to copy the query output in desired format click on the "Finish" button and a child modal will open where you can toggle between query output formats and copy the result by clicking on "Copy" button (you can access query result from the browser console too as query results are logged in the browser console everytime the user selects an option)
 
 ## Info:
-* Only equals and not equals conditions and conjuctions are mapped to there corresponding symbols i.e. ==, !=, && and ||, other conditions are used directly as string and not mapped to any symbols (It's cuz I couldnt think of any symbols to map them to..😅)
+* Only equals and not equals conditions and conjuctions are mapped to there corresponding symbols i.e. ==, !=, && and ||, other conditions are used directly as string and not mapped to any symbols
 
 ## Technologies Used:
 
