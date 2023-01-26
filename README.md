@@ -1,6 +1,4 @@
 # Frontend Assignment | Enterpret
-#### Deployed Site: https://enterpret-assignment-swayam.netlify.app/
-#### CodeSandbox Link: https://bit.ly/3D1FGqs
 
 ## Features Implemented:
 * One level query with the human readable querystring displayed in modal 
@@ -9,7 +7,7 @@
 * Delete a query feature
 * Copy button to copy query output to clipboard
 
-## Steps:
+## Walkthrough:
 #### 1) Click on "Build Query" button then the Query Builder Modal will open
 #### 2) Build your desired query
 #### 3) To access or to copy the query output in desired format click on the "Finish" button and a child modal will open where you can toggle between query output formats and copy the result by clicking on "Copy" button (you can access query result from the browser console too as query results are logged in the browser console everytime the user selects an option)
