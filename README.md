@@ -1,5 +1,7 @@
 # Frontend Assignment | Enterpret
 
+Deployed Link: https://enterpret-assignment-swayam-nayak.netlify.app/
+
 ## Features Implemented:
 * One level query with the human readable querystring displayed in modal 
 * Access the query output in both string and Rule | RuleGroup format
